@@ -1,0 +1,4 @@
+"SampleID"	"Sequence"	"Length"
+"S1"	"ATGCTAGCTA"	10
+"S2"	"TGCTAGCTAG"	10
+"S3"	"GCTAGCTAGC"	10

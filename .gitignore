@@ -1,0 +1,26 @@
+# Ignore all files and directories
+
+# Unignore all directories (so Git can access .html files within them)
+!*/
+!/RStudio and RProjects/
+!/R Objects and Basic Data Handling/
+!/R Objects and Basic Data Handling/data/
+
+!Data Management and Vvisualization/
+!Data Management and Vvisualization/**
+
+!/R Objects and Basic Data Handling/r-objects-and-basic-data-handling.qmd
+!/R Objects and Basic Data Handling/images/
+*/RStudio and RProjects/images/
+
+# Unignore all .html files
+!*.html
+!*.xlsx
+# Unignore all README.md
+
+!README.md
+.Rproj.user
+.Rhitory
+*.qmd
+
+!*.Rpoj

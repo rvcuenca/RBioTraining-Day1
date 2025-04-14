@@ -1,0 +1,7 @@
+author: "Prof. R Cuenca"
+institute: "Center for Computational Analytics and Modelling (CCAM), PRISM, MSU-IIT"
+format:
+  html:
+    toc: true
+    toc-depth: 6
+    embed-resources: true
