@@ -8,6 +8,10 @@
 *R Objects and Basic Data Handling/images/
 *R Objects and Basic Data Handling/images/
 
+*.png
+*.jpeg
+*.jpg
+
 !Data Management and Vvisualization/
 !Data Management and Vvisualization/**
 
