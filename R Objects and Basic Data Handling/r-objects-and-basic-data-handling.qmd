@@ -71,7 +71,7 @@ The following are the most common data types in R:
 
 The most common format of data format handled in pure sciences are in tabular form. Consider the following:
 
-**Table 1.1** The Configuration of $n$ Samples and $k$ Variables in Multivariate Form
+**Table 1.** The Configuration of $n$ Samples and $k$ Variables in Multivariate Form
 
 ![](images/clipboard-1196127638.png){fig-align="center" width="95%"}
 
@@ -80,11 +80,11 @@ A typical example of such data is as follows.
 ::: callout-tip
 ## Example 1. ASSESSMENT OF SURFACE WATER
 
-An assessment of water quality in the Juru and Jejawi Rivers in the Penang State of Malaysia was conducted by monitoring 10 physiochemical parameters; namely, the electrical conductivity (EC) and temperature were measured employing an HACH portable pH meter, and dissolved oxygen (DO) was measured with a YSI 1000 DO meter. The chemical oxygen demand (COD), biochemical oxygen demand (BOD), total phosphate concentrations, and total nitrate were analyzed employing a spectrophotometer (HACH/2010). The turbidity was measured employing a nephelometer. The total suspended solids (TSS) were analyzed gravimetrically in the laboratory. The APHA Standard Methods for the Examination of Water and Wastewater were applied to analyze the concentration of the abovementioned parameters. The data obtained from 10 different sites are each given in Table 1 below.
+An assessment of water quality in the Juru and Jejawi Rivers in the Penang State of Malaysia was conducted by monitoring 10 physiochemical parameters; namely, the electrical conductivity (EC) and temperature were measured employing an HACH portable pH meter, and dissolved oxygen (DO) was measured with a YSI 1000 DO meter. The chemical oxygen demand (COD), biochemical oxygen demand (BOD), total phosphate concentrations, and total nitrate were analyzed employing a spectrophotometer (HACH/2010). The turbidity was measured employing a nephelometer. The total suspended solids (TSS) were analyzed gravimetrically in the laboratory. The APHA Standard Methods for the Examination of Water and Wastewater were applied to analyze the concentration of the abovementioned parameters. The data obtained from 10 different sites are each given in Table 2 below.
 
 In this example, 20 samples (rows) are collected from the Juru and Jejawi Rivers ( 10 different sites each), and 10 physiochemical parameters (columns) are measured from each sample. It is very difficult for the researchers to make a decision about the pollution status of the rivers or about the behavior of the different parameters based on the chosen parameters under study because there are many different values, and the differences (fluctuations) between the values of the parameters from sample to sample will mislead the researcher, making it difficult to make a correct decision. Thus, these data should be analyzed employing an appropriate multivariate method that meets the objective of the study to untangle the information and to understand the body of the phenomenon. The objectives of this research were to determine the range of similarity among the sampling sites, to recognize the variables responsible for spatial differences in river water quality, to determine the unobserved factors while demonstrating the framework of the database, and to quantify the effect of possible natural and anthropogenic sources of the chosen water parameters of the rivers.
 
-**Table 1**\
+**Table 2**\
 *Physiochemical Parameters for the Juru and Jejawi Rivers*
 
 | Location | Temperature | PH | DO | BOD | COD | TSS | EC | Turbidity | Total phosphate | Total nitrate |
@@ -115,7 +115,7 @@ Some organisms thrive where industrial waste is evident. Others appear in cleane
 -   Counts in each row reflect a possible sampling for that site.
 -   Zero values indicate no observed presence of that species.
 
-**Table 2**.\
+**Table 3**.\
 *Observed counts of five hypothetical species at each sampling site in the Juru and Jejawi Rivers. Zero values indicate the species is absent, while positive integers represent observed presence.*
 
 | Location  | Species A | Species B | Species C | Species D | Species E |
